@@ -1,0 +1,12 @@
+main.py
+setup.py
+git_architect.egg-info/PKG-INFO
+git_architect.egg-info/SOURCES.txt
+git_architect.egg-info/dependency_links.txt
+git_architect.egg-info/entry_points.txt
+git_architect.egg-info/requires.txt
+git_architect.egg-info/top_level.txt
+src/__init__.py
+src/analyzer.py
+src/git_manager.py
+src/governor.py

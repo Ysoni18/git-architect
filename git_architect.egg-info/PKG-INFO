@@ -1,0 +1,9 @@
+Metadata-Version: 2.4
+Name: git-architect
+Version: 1.0.0
+Requires-Dist: click>=8.1.0
+Requires-Dist: GitPython>=3.1.0
+Requires-Dist: langchain-core>=0.3.0
+Requires-Dist: langchain-ollama>=1.1.0
+Requires-Dist: pydantic>=2.0.0
+Dynamic: requires-dist
